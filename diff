@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>KeyTec AI Demo</title>
+  <!-- Hier kun je eventueel een style.css linken -->
+</head>
+<body>
+  <h1>Welkom bij KeyTec AI-demo</h1>
+  <p>Probeer onze AI-chatbot om vragen te stellen over producten.</p>
+  <!-- Hier komt straks de chatbot-interface -->
+</body>
+</html>
